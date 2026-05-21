@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alif Steel Furniture</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+<div class="logo">Alif Steel Furniture</div>
+
+<a href="checkout.html" class="order-btn">
+অর্ডার করুন
+</a>
+</header>
+
+<section class="hero">
+
+<img src="banner.png" alt="Banner">
+
+<div class="hero-text">
+<h1>প্রিমিয়াম কোয়ালিটি স্টিল আলমিরাহ</h1>
+
+<p>
+আধুনিক ডিজাইন, দীর্ঘস্থায়ী ও মজবুত স্টিল ফার্নিচার।
+</p>
+
+<a href="product.html" class="btn">
+প্রোডাক্ট দেখুন
+</a>
+
+</div>
+
+</section>
+
+<section class="products">
+
+<h2>জনপ্রিয় প্রোডাক্ট</h2>
+
+<div class="product-grid">
+
+<div class="card">
+
+<img src="product1.jpg">
+
+<h3>Product Name 1</h3>
+
+<p>৳ 12,500</p>
+
+<a href="product.html">বিস্তারিত</a>
+
+</div>
+
+<div class="card">
+
+<img src="product2.jpg">
+
+<h3>Product Name 2</h3>
+
+<p>৳ 15,000</p>
+
+<a href="product.html">বিস্তারিত</a>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>📞 01705512281</p>
+
+<p>Bozrapur, Jamalpur Sadar</p>
+
+</footer>
+
+</body>
+</html>
